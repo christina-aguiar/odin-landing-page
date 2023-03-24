@@ -74,12 +74,11 @@ body {
 }
 
 .logo {
-    height: 48px;
+    height: 60px;
 }
 
 .social-icons {
-    height: 36px;
-    width: auto;
+    height: 42px;
 }
 
 .header-img {
