@@ -83,7 +83,6 @@ body {
 .small-text {
     font-size: 18px;
     color: white;
-    font-weight: 600;
 }
 
 .header-img {
@@ -188,8 +187,6 @@ button {
     flex-wrap: wrap;
     color: white;
     gap: 20px;
-    font-size: large;
-    font-weight: 600;
 }
 
 button.call-button {
