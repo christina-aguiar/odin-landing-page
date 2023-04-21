@@ -98,6 +98,7 @@ button {
     font-weight: bolder;
     color: white;
     border-style: none;
+    border: 2px solid white;
 }
 
 .info-title {
@@ -191,7 +192,6 @@ button {
 }
 
 button.call-button {
-    border: 2px solid white;
     height: 50px;
 }
 
