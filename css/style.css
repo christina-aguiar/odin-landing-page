@@ -32,6 +32,7 @@ body {
     width: 100%;
     justify-content: space-between;
     padding: 20px 80px;
+    align-items: center;
 }
 
 .logo {
@@ -185,6 +186,8 @@ button {
     flex-wrap: wrap;
     color: white;
     gap: 20px;
+    font-size: large;
+    font-weight: 600;
 }
 
 button.call-button {
@@ -195,6 +198,7 @@ button.call-button {
 .call-heading {
     font-weight: bolder;
     color: white;
+    font-size: larger;
 }
 
 .footer {
