@@ -13,7 +13,7 @@ body {
     max-height: 100%;
     padding: 0;
     background-color: #b2ffee;
-    text-shadow: 0.5px 0.5px 5px #c34aa2;
+    text-shadow: 0.5px 0.5px 2px #c34aa2;
 }
 
 .header-container {
