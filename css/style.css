@@ -13,6 +13,7 @@ body {
     max-height: 100%;
     padding: 0;
     background-color: #b2ffee;
+    text-shadow: 0.5px 0.5px 5px #ffa6e7;
 }
 
 .header-container {
@@ -107,7 +108,6 @@ button {
     font-weight: bolder;
     color: white;
     text-align: center;
-    text-shadow: 0.5px 0.5px 2px #000000;
 }
 
 .info-container {
@@ -139,7 +139,6 @@ button {
     font-size: larger;
     font-weight: 600;    
     justify-content: space-between;
-    text-shadow: 0.5px 0.5px 2px #000000;
 }
 
 .card-img {
