@@ -40,8 +40,13 @@ body {
 
 .hero-right {
     display: flex;
+    justify-content: end;
     height: 40px;
     gap: 10px;
+}
+
+.hero-left {
+    display: flex;
 }
 
 .header-content {
